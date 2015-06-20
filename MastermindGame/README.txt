@@ -1,4 +1,4 @@
-                         Mastermind game Ciaran Whyte - G00254624
+                         Mastermind game Ciaran Whyte
 			=================
 -All specs you provided have been met
 -Game has been tested successfully on both my laptop and lab computers, simply copy code provided in .c
